@@ -89,4 +89,4 @@ flowchart LR
 
 2024년 게임 서버 학습 시점의 레거시 기준선입니다. 콘텐츠 thread의 유휴 대기가 현재 busy-spin인 점과 authoritative 좌표 검증, AOI 좌표 정확성, timeout·종료 수명, packet 경계 검사를 우선 현대화 대상으로 관리하고 있습니다.
 
-포트폴리오 연계 저장소: [LoginServer](https://github.com/ldcity/LoginServer) · [ChattingServer](https://github.com/ldcity/ChattingServer) · [MonitoringServer](https://github.com/ldcity/MonitoringServer)
+같은 시기에 작성한 포트폴리오 저장소(이 서버와의 런타임 연동은 없습니다): [LoginServer](https://github.com/ldcity/LoginServer) · [ChattingServer](https://github.com/ldcity/ChattingServer) · [MonitoringServer](https://github.com/ldcity/MonitoringServer)
